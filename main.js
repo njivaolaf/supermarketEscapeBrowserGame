@@ -1,6 +1,6 @@
 //Player have only hints to know which shelf he is in help:quotes
 
-
+//
 function Player(p_name,p_age)
 {
 	this.name = p_name;
